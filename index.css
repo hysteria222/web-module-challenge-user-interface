@@ -30,6 +30,12 @@ img{
   border-radius: 10px;
 }
 
+.img1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 .content-row {
   display: flex;
@@ -63,8 +69,15 @@ background-color: white;
 color:pink;
 }
 
-#about{
+.about {
   margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#cookies{
+margin-left: 900px;
 }
 
 .contact-section {
